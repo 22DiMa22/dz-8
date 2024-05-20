@@ -5,7 +5,7 @@
     position: relative;
     animation-name: box;
     animation-duration: 4s;
-    animation-delay: 1s;
+    animation-delay: 3s;
 }
 
 @keyframes box {
